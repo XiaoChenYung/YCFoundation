@@ -74,6 +74,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		925F75B71D7D533500200216 /* YCFoundation */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = YCFoundation;
+			sourceTree = "<group>";
+		};
 		92DBD43D1D66B18800E36291 = {
 			isa = PBXGroup;
 			children = (
@@ -97,6 +104,7 @@
 		92DBD4481D66B18900E36291 /* YCFoundation */ = {
 			isa = PBXGroup;
 			children = (
+				925F75B71D7D533500200216 /* YCFoundation */,
 				92DBD4491D66B18900E36291 /* AppDelegate.swift */,
 				92DBD44B1D66B18900E36291 /* ViewController.swift */,
 				92DBD44D1D66B18900E36291 /* Main.storyboard */,
@@ -482,6 +490,7 @@
 				92DBD4701D66B18A00E36291 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		92DBD4711D66B18A00E36291 /* Build configuration list for PBXNativeTarget "YCFoundationTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +499,7 @@
 				92DBD4731D66B18A00E36291 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		92DBD4741D66B18A00E36291 /* Build configuration list for PBXNativeTarget "YCFoundationUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +508,7 @@
 				92DBD4761D66B18A00E36291 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
