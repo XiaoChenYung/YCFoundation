@@ -1,2 +1,2 @@
 # YCFoundation
-常用Swift库的封装
+常用Swift库的封装.
